@@ -1,0 +1,11 @@
+p[draggable="true"]{
+    color:blueviolet
+}
+*{
+    background-color: beige;
+}
+
+.image-class{
+    height: 200px;
+    width : 200px;
+}
